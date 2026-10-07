@@ -1,0 +1,7 @@
+bin/
+obj/
+salida/
+.vs/
+*.user
+publicar/
+*.exe

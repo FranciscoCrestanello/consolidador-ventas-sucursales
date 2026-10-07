@@ -1,0 +1,362 @@
+﻿fecha;codigo;producto;cantidad;importe_total;vendedor
+2026-07-01;P004;fideos spaghetti 500g;4;3640,00;Tomás Vega
+2026-07-01;P015;papas fritas 150g;6;11340,00;Lucía Herrera
+2026-07-01;P004;fideos spaghetti 500g;6;5340,00;Lucía Herrera
+2026-07-01;P012;papel higiénico x4;6;14160,00;Tomás Vega
+2026-07-01;P013;jabón en polvo 3kg;2;15960,00;Tomás Vega
+2026-07-01;P016;alfajor triple;1;810,00;Lucía Herrera
+2026-07-01;P008;cerveza rubia 1l;1;2350,00;Lucía Herrera
+2026-07-02;P012;papel higiénico x4;3;6810,00;Tomás Vega
+2026-07-03;P004;fideos spaghetti 500g;4;3520,00;Lucía Herrera
+2026-07-03;P009;vino malbec 750ml;6;30300,00;Lucía Herrera
+2026-07-03;P009;vino malbec 750ml;1;5250,00;Lucía Herrera
+2026-07-03;P009;vino malbec 750ml;1;5250,00;Lucía Herrera
+2026-07-04;P012;papel higiénico x4;4;9080,00;Lucía Herrera
+2026-07-04;P014;galletitas dulces 300g;12;14520,00;Tomás Vega
+2026-07-04;P016;alfajor triple;3;2460,00;Lucía Herrera
+2026-07-04;P002;café molido 500g;1;4030,00;Lucía Herrera
+2026-07-04;P011;lavandina 2l;6;6480,00;Lucía Herrera
+2026-07-04;P001;yerba mate 1kg;2;5880,00;Tomás Vega
+2026-07-05;P016;alfajor triple;4;3160,00;Tomás Vega
+2026-07-05;P011;lavandina 2l;4;4440,00;Lucía Herrera
+2026-07-06;P014;galletitas dulces 300g;1;1240,00;Tomás Vega
+2026-07-06;P012;papel higiénico x4;1;2250,00;Tomás Vega
+2026-07-06;P004;fideos spaghetti 500g;2;1840,00;Lucía Herrera
+2026-07-06;P015;papas fritas 150g;12;22800,00;Lucía Herrera
+2026-07-06;P006;gaseosa cola 2,25l;1;2190,00;Tomás Vega
+2026-07-06;P003;aceite girasol 1,5l;2;5080,00;Tomás Vega
+2026-07-07;P014;galletitas dulces 300g;12;15240,00;Tomás Vega
+2026-07-07;P002;café molido 500g;4;16720,00;Lucía Herrera
+2026-07-08;P007;agua mineral 2l;1;980,00;Lucía Herrera
+2026-07-08;P002;café molido 500g;1;4070,00;Tomás Vega
+2026-07-09;P008;cerveza rubia 1l;3;7410,00;Lucía Herrera
+2026-07-09;P014;galletitas dulces 300g;2;2560,00;Lucía Herrera
+2026-07-09;P003;aceite girasol 1,5l;2;5220,00;Tomás Vega
+2026-07-09;P016;alfajor triple;3;2370,00;Tomás Vega
+2026-07-09;P001;yerba mate 1kg;1;2980,00;Lucía Herrera
+2026-07-10;P003;aceite girasol 1,5l;1;2580,00;Lucía Herrera
+2026-07-10;P007;agua mineral 2l;3;2850,00;Lucía Herrera
+2026-07-10;P003;aceite girasol 1,5l;12;31080,00;Tomás Vega
+2026-07-10;P010;detergente 750ml;2;3360,00;Lucía Herrera
+2026-07-11;P008;cerveza rubia 1l;6;14520,00;Tomás Vega
+2026-07-11;P005;arroz largo fino 1kg;4;5120,00;Lucía Herrera
+2026-07-11;P013;jabón en polvo 3kg;1;8050,00;Tomás Vega
+2026-07-12;P015;papas fritas 150g;3;5760,00;Tomás Vega
+2026-07-12;P014;galletitas dulces 300g;6;7680,00;Tomás Vega
+2026-07-12;P001;yerba mate 1kg;3;8610,00;Tomás Vega
+2026-07-12;P001;yerba mate 1kg;1;2900,00;Lucía Herrera
+2026-07-13;P016;alfajor triple;1;820,00;Lucía Herrera
+2026-07-13;P003;aceite girasol 1,5l;2;5100,00;Tomás Vega
+2026-07-13;P009;vino malbec 750ml;6;31140,00;Tomás Vega
+2026-07-13;P016;alfajor triple;12;9720,00;Tomás Vega
+2026-07-13;P001;yerba mate 1kg;2;5920,00;Tomás Vega
+2026-07-13;P015;papas fritas 150g;1;1870,00;Tomás Vega
+2026-07-13;P004;fideos spaghetti 500g;4;3520,00;Tomás Vega
+2026-07-13;P001;yerba mate 1kg;3;8910,00;Lucía Herrera
+2026-07-14;P002;café molido 500g;12;48120,00;Lucía Herrera
+2026-07-14;P005;arroz largo fino 1kg;2;2640,00;Tomás Vega
+2026-07-14;P005;arroz largo fino 1kg;2;2640,00;Tomás Vega
+2026-07-15;P016;alfajor triple;1;780,00;Lucía Herrera
+2026-07-16;P013;jabón en polvo 3kg;6;48660,00;Tomás Vega
+2026-07-16;P002;café molido 500g;6;24420,00;Lucía Herrera
+2026-07-16;P004;fideos spaghetti 500g;1;890,00;Lucía Herrera
+2026-07-16;P015;papas fritas 150g;1;1880,00;Lucía Herrera
+2026-07-16;P005;arroz largo fino 1kg;1;1310,00;Lucía Herrera
+2026-07-17;P016;alfajor triple;3;2370,00;Lucía Herrera
+2026-07-17;P014;galletitas dulces 300g;3;3810,00;Lucía Herrera
+2026-07-17;P014;galletitas dulces 300g;3;3630,00;Tomás Vega
+2026-07-17;P008;cerveza rubia 1l;1;2330,00;Tomás Vega
+2026-07-17;P010;detergente 750ml;2;3400,00;Tomás Vega
+2026-07-17;P012;papel higiénico x4;3;6900,00;Lucía Herrera
+2026-07-17;P010;detergente 750ml;1;1690,00;Lucía Herrera
+2026-07-17;P005;arroz largo fino 1kg;2;2660,00;Lucía Herrera
+2026-07-18;P009;vino malbec 750ml;3;15960,00;Lucía Herrera
+2026-07-18;P016;alfajor triple;4;3120,00;Tomás Vega
+2026-07-19;P010;detergente 750ml;3;5190,00;Lucía Herrera
+2026-07-19;P007;agua mineral 2l;6;5880,00;Tomás Vega
+2026-07-19;P014;galletitas dulces 300g;12;15120,00;Tomás Vega
+2026-07-19;P005;arroz largo fino 1kg;1;1270,00;Lucía Herrera
+2026-07-19;P012;papel higiénico x4;1;2330,00;Tomás Vega
+2026-07-19;P016;alfajor triple;1;790,00;Tomás Vega
+2026-07-20;P014;galletitas dulces 300g;2;2520,00;Tomás Vega
+2026-07-20;P002;café molido 500g;12;50280,00;Lucía Herrera
+2026-07-20;P011;lavandina 2l;1;1130,00;Lucía Herrera
+2026-07-21;P013;jabón en polvo 3kg;6;48060,00;Lucía Herrera
+2026-07-21;P014;galletitas dulces 300g;4;4920,00;Lucía Herrera
+2026-07-21;P015;papas fritas 150g;2;3720,00;Lucía Herrera
+2026-07-21;P007;agua mineral 2l;3;2850,00;Lucía Herrera
+2026-07-22;P002;café molido 500g;1;4110,00;Lucía Herrera
+2026-07-22;P015;papas fritas 150g;1;1900,00;Lucía Herrera
+2026-07-22;P004;fideos spaghetti 500g;3;2670,00;Lucía Herrera
+2026-07-22;P016;alfajor triple;12;9720,00;Lucía Herrera
+2026-07-22;P005;arroz largo fino 1kg;2;2680,00;Lucía Herrera
+2026-07-22;P015;papas fritas 150g;1;1900,00;Tomás Vega
+2026-07-22;P002;café molido 500g;1;4020,00;Tomás Vega
+2026-07-22;P014;galletitas dulces 300g;1;1260,00;Tomás Vega
+2026-07-22;P005;arroz largo fino 1kg;1;1310,00;Tomás Vega
+2026-07-22;P005;arroz largo fino 1kg;2;2600,00;Lucía Herrera
+2026-07-23;P005;arroz largo fino 1kg;1;1300,00;Lucía Herrera
+2026-07-23;P005;arroz largo fino 1kg;6;7980,00;Lucía Herrera
+2026-07-23;P013;jabón en polvo 3kg;1;8050,00;Lucía Herrera
+2026-07-23;P002;café molido 500g;6;25020,00;Tomás Vega
+2026-07-23;P006;gaseosa cola 2,25l;3;6540,00;Lucía Herrera
+2026-07-23;P015;papas fritas 150g;1;1960,00;Tomás Vega
+2026-07-23;P014;galletitas dulces 300g;3;3810,00;Lucía Herrera
+2026-07-24;P004;fideos spaghetti 500g;2;1760,00;Tomás Vega
+2026-07-24;P013;jabón en polvo 3kg;1;8050,00;Lucía Herrera
+2026-07-24;P002;café molido 500g;3;12630,00;Lucía Herrera
+2026-07-24;P013;jabón en polvo 3kg;1;7810,00;Lucía Herrera
+2026-07-25;P012;papel higiénico x4;4;9440,00;Lucía Herrera
+2026-07-25;P013;jabón en polvo 3kg;2;15820,00;Tomás Vega
+2026-07-25;P015;papas fritas 150g;6;11520,00;Tomás Vega
+2026-07-26;P007;agua mineral 2l;3;2760,00;Lucía Herrera
+2026-07-27;P016;alfajor triple;1;780,00;Tomás Vega
+2026-07-27;P007;agua mineral 2l;6;5820,00;Lucía Herrera
+2026-07-28;P006;gaseosa cola 2,25l;1;2150,00;Lucía Herrera
+2026-07-28;P010;detergente 750ml;2;3340,00;Lucía Herrera
+2026-07-28;P007;agua mineral 2l;12;11520,00;Lucía Herrera
+2026-07-28;P003;aceite girasol 1,5l;3;7590,00;Lucía Herrera
+2026-07-29;P013;jabón en polvo 3kg;4;31080,00;Tomás Vega
+2026-07-30;P013;jabón en polvo 3kg;3;23010,00;Lucía Herrera
+2026-07-30;P016;alfajor triple;1;810,00;Lucía Herrera
+2026-07-30;P003;aceite girasol 1,5l;3;7740,00;Tomás Vega
+2026-07-30;P002;café molido 500g;1;4220,00;Lucía Herrera
+2026-07-30;P011;lavandina 2l;4;4320,00;Lucía Herrera
+2026-07-30;P015;papas fritas 150g;6;11640,00;Lucía Herrera
+2026-07-31;P013;jabón en polvo 3kg;2;15320,00;Lucía Herrera
+2026-07-31;P002;café molido 500g;1;4100,00;Tomás Vega
+2026-07-31;P001;yerba mate 1kg;1;2820,00;Tomás Vega
+2026-07-31;P005;arroz largo fino 1kg;2;2540,00;Tomás Vega
+2026-07-31;P003;aceite girasol 1,5l;1;2530,00;Tomás Vega
+2026-07-31;P002;café molido 500g;2;8140,00;Tomás Vega
+2026-08-01;P006;gaseosa cola 2,25l;2;4600,00;Lucía Herrera
+2026-08-01;P008;cerveza rubia 1l;1;2500,00;Lucía Herrera
+2026-08-01;P012;papel higiénico x4;4;9840,00;Lucía Herrera
+2026-08-02;P011;lavandina 2l;2;2300,00;Lucía Herrera
+2026-08-02;P001;yerba mate 1kg;1;3060,00;Lucía Herrera
+2026-08-02;P005;arroz largo fino 1kg;1;1360,00;Tomás Vega
+2026-08-02;P001;yerba mate 1kg;4;11880,00;Tomás Vega
+2026-08-02;P009;vino malbec 750ml;3;15870,00;Lucía Herrera
+2026-08-03;P014;galletitas dulces 300g;1;1330,00;Tomás Vega
+2026-08-04;P015;papas fritas 150g;3;5910,00;Lucía Herrera
+2026-08-04;P007;agua mineral 2l;1;970,00;Tomás Vega
+2026-08-04;P004;fideos spaghetti 500g;3;2850,00;Lucía Herrera
+2026-08-04;P005;arroz largo fino 1kg;3;4140,00;Lucía Herrera
+2026-08-04;P010;detergente 750ml;1;1810,00;Tomás Vega
+2026-08-04;P010;detergente 750ml;2;3560,00;Lucía Herrera
+2026-08-04;P002;café molido 500g;6;25380,00;Lucía Herrera
+2026-08-04;P005;arroz largo fino 1kg;2;2620,00;Tomás Vega
+2026-08-05;P005;arroz largo fino 1kg;2;2620,00;Lucía Herrera
+2026-08-05;P014;galletitas dulces 300g;1;1280,00;Lucía Herrera
+2026-08-05;P004;fideos spaghetti 500g;1;960,00;Lucía Herrera
+2026-08-05;P015;papas fritas 150g;1;2000,00;Tomás Vega
+2026-08-05;P016;alfajor triple;1;820,00;Lucía Herrera
+2026-08-05;P008;cerveza rubia 1l;4;9840,00;Lucía Herrera
+2026-08-05;P001;yerba mate 1kg;6;17580,00;Tomás Vega
+2026-08-05;P003;aceite girasol 1,5l;2;5280,00;Tomás Vega
+2026-08-05;P006;gaseosa cola 2,25l;2;4480,00;Tomás Vega
+2026-08-06;P009;vino malbec 750ml;12;64320,00;Tomás Vega
+2026-08-06;P009;vino malbec 750ml;3;15870,00;Lucía Herrera
+2026-08-06;P008;cerveza rubia 1l;1;2460,00;Lucía Herrera
+2026-08-06;P009;vino malbec 750ml;12;65040,00;Lucía Herrera
+2026-08-07;P015;papas fritas 150g;6;11580,00;Tomás Vega
+2026-08-07;P001;yerba mate 1kg;2;6020,00;Lucía Herrera
+2026-08-07;P009;vino malbec 750ml;1;5270,00;Tomás Vega
+2026-08-07;P001;yerba mate 1kg;4;11920,00;Lucía Herrera
+2026-08-08;P005;arroz largo fino 1kg;3;3990,00;Tomás Vega
+2026-08-08;P004;fideos spaghetti 500g;1;910,00;Lucía Herrera
+2026-08-08;P011;lavandina 2l;2;2220,00;Tomás Vega
+2026-08-08;P009;vino malbec 750ml;1;5370,00;Lucía Herrera
+2026-08-08;P007;agua mineral 2l;4;3840,00;Lucía Herrera
+2026-08-08;P003;aceite girasol 1,5l;1;2760,00;Tomás Vega
+2026-08-09;P002;café molido 500g;3;12600,00;Lucía Herrera
+2026-08-09;P016;alfajor triple;3;2550,00;Lucía Herrera
+2026-08-10;P016;alfajor triple;1;840,00;Tomás Vega
+2026-08-10;P016;alfajor triple;12;9840,00;Lucía Herrera
+2026-08-10;P008;cerveza rubia 1l;1;2460,00;Lucía Herrera
+2026-08-10;P015;papas fritas 150g;1;2020,00;Tomás Vega
+2026-08-10;P004;fideos spaghetti 500g;1;960,00;Lucía Herrera
+2026-08-11;P012;papel higiénico x4;4;9480,00;Tomás Vega
+2026-08-11;P003;aceite girasol 1,5l;6;16620,00;Tomás Vega
+2026-08-11;P005;arroz largo fino 1kg;2;2740,00;Tomás Vega
+2026-08-11;P013;jabón en polvo 3kg;3;25350,00;Lucía Herrera
+2026-08-12;P014;galletitas dulces 300g;6;7800,00;Tomás Vega
+2026-08-12;P014;galletitas dulces 300g;1;1330,00;Lucía Herrera
+2026-08-12;P014;galletitas dulces 300g;1;1330,00;Lucía Herrera
+2026-08-12;P003;aceite girasol 1,5l;6;16320,00;Lucía Herrera
+2026-08-12;P011;lavandina 2l;2;2280,00;Tomás Vega
+2026-08-12;P002;café molido 500g;3;12930,00;Lucía Herrera
+2026-08-13;P014;galletitas dulces 300g;2;2640,00;Lucía Herrera
+2026-08-13;P013;jabón en polvo 3kg;1;8380,00;Lucía Herrera
+2026-08-13;P005;arroz largo fino 1kg;2;2660,00;Tomás Vega
+2026-08-13;P014;galletitas dulces 300g;2;2600,00;Tomás Vega
+2026-08-13;P002;café molido 500g;1;4180,00;Lucía Herrera
+2026-08-14;P016;alfajor triple;1;830,00;Tomás Vega
+2026-08-14;P003;aceite girasol 1,5l;2;5420,00;Lucía Herrera
+2026-08-14;P011;lavandina 2l;3;3480,00;Lucía Herrera
+2026-08-16;P009;vino malbec 750ml;1;5400,00;Tomás Vega
+2026-08-16;P003;aceite girasol 1,5l;1;2740,00;Tomás Vega
+2026-08-16;P006;gaseosa cola 2,25l;1;2270,00;Lucía Herrera
+2026-08-16;P014;galletitas dulces 300g;3;3900,00;Lucía Herrera
+2026-08-17;P013;jabón en polvo 3kg;1;8440,00;Lucía Herrera
+2026-08-17;P008;cerveza rubia 1l;3;7380,00;Lucía Herrera
+2026-08-17;P008;cerveza rubia 1l;3;7380,00;Lucía Herrera
+2026-08-17;P013;jabón en polvo 3kg;12;96360,00;Lucía Herrera
+2026-08-18;P013;jabón en polvo 3kg;2;16200,00;Lucía Herrera
+2026-08-18;P004;fideos spaghetti 500g;1;930,00;Tomás Vega
+2026-08-18;P008;cerveza rubia 1l;2;5020,00;Tomás Vega
+2026-08-19;P002;café molido 500g;4;17240,00;Tomás Vega
+2026-08-19;P016;alfajor triple;1;820,00;Tomás Vega
+2026-08-20;P011;lavandina 2l;1;1170,00;Lucía Herrera
+2026-08-20;P006;gaseosa cola 2,25l;2;4440,00;Tomás Vega
+2026-08-21;P002;café molido 500g;1;4200,00;Tomás Vega
+2026-08-21;P005;arroz largo fino 1kg;6;7980,00;Lucía Herrera
+2026-08-21;P010;detergente 750ml;1;1730,00;Lucía Herrera
+2026-08-21;P002;café molido 500g;1;4160,00;Lucía Herrera
+2026-08-22;P009;vino malbec 750ml;1;5370,00;Tomás Vega
+2026-08-22;P014;galletitas dulces 300g;1;1320,00;Lucía Herrera
+2026-08-22;P004;fideos spaghetti 500g;2;1920,00;Lucía Herrera
+2026-08-22;P010;detergente 750ml;3;5250,00;Lucía Herrera
+2026-08-22;P015;papas fritas 150g;2;4040,00;Tomás Vega
+2026-08-23;P006;gaseosa cola 2,25l;1;2340,00;Lucía Herrera
+2026-08-23;P008;cerveza rubia 1l;2;4880,00;Lucía Herrera
+2026-08-24;P011;lavandina 2l;6;6720,00;Lucía Herrera
+2026-08-24;P005;arroz largo fino 1kg;2;2720,00;Tomás Vega
+2026-08-24;P013;jabón en polvo 3kg;6;48600,00;Lucía Herrera
+2026-08-25;P004;fideos spaghetti 500g;6;5760,00;Lucía Herrera
+2026-08-25;P012;papel higiénico x4;6;14280,00;Lucía Herrera
+2026-08-26;P005;arroz largo fino 1kg;2;2740,00;Tomás Vega
+2026-08-26;P015;papas fritas 150g;2;4000,00;Tomás Vega
+2026-08-26;P001;yerba mate 1kg;12;35280,00;Tomás Vega
+2026-08-26;P001;yerba mate 1kg;6;18600,00;Lucía Herrera
+2026-08-27;P015;papas fritas 150g;1;1950,00;Tomás Vega
+2026-08-27;P006;gaseosa cola 2,25l;1;2290,00;Lucía Herrera
+2026-08-27;P013;jabón en polvo 3kg;3;24180,00;Lucía Herrera
+2026-08-27;P006;gaseosa cola 2,25l;1;2290,00;Lucía Herrera
+2026-08-27;P003;aceite girasol 1,5l;1;2690,00;Tomás Vega
+2026-08-27;P015;papas fritas 150g;2;3980,00;Tomás Vega
+2026-08-27;P013;jabón en polvo 3kg;1;8370,00;Tomás Vega
+2026-08-28;P003;aceite girasol 1,5l;1;2700,00;Tomás Vega
+2026-09-01;P005;arroz largo fino 1kg;6;8640,00;Tomás Vega
+2026-09-01;P012;papel higiénico x4;4;9960,00;Tomás Vega
+2026-09-01;P001;yerba mate 1kg;1;3110,00;Tomás Vega
+2026-09-01;P003;aceite girasol 1,5l;2;5460,00;Lucía Herrera
+2026-09-02;P013;jabón en polvo 3kg;1;8790,00;Lucía Herrera
+2026-09-02;P012;papel higiénico x4;4;10240,00;Lucía Herrera
+2026-09-02;P007;agua mineral 2l;6;6300,00;Tomás Vega
+2026-09-02;P002;café molido 500g;2;8600,00;Tomás Vega
+2026-09-02;P001;yerba mate 1kg;1;3220,00;Tomás Vega
+2026-09-02;P007;agua mineral 2l;1;1010,00;Tomás Vega
+2026-09-03;P003;aceite girasol 1,5l;1;2850,00;Tomás Vega
+2026-09-03;P005;arroz largo fino 1kg;2;2880,00;Tomás Vega
+2026-09-03;P004;fideos spaghetti 500g;1;940,00;Tomás Vega
+2026-09-04;P016;alfajor triple;1;880,00;Tomás Vega
+2026-09-04;P003;aceite girasol 1,5l;1;2740,00;Tomás Vega
+2026-09-04;P016;alfajor triple;4;3480,00;Lucía Herrera
+2026-09-04;P007;agua mineral 2l;6;6300,00;Tomás Vega
+2026-09-04;P015;papas fritas 150g;6;12060,00;Lucía Herrera
+2026-09-04;P009;vino malbec 750ml;3;17310,00;Lucía Herrera
+2026-09-04;P014;galletitas dulces 300g;3;3990,00;Tomás Vega
+2026-09-05;P016;alfajor triple;1;840,00;Tomás Vega
+2026-09-05;P007;agua mineral 2l;2;2000,00;Tomás Vega
+2026-09-05;P008;cerveza rubia 1l;1;2620,00;Lucía Herrera
+2026-09-05;P011;lavandina 2l;6;7260,00;Tomás Vega
+2026-09-05;P008;cerveza rubia 1l;6;15420,00;Tomás Vega
+2026-09-06;P013;jabón en polvo 3kg;6;50340,00;Tomás Vega
+2026-09-06;P002;café molido 500g;1;4530,00;Tomás Vega
+2026-09-06;P007;agua mineral 2l;12;12360,00;Tomás Vega
+2026-09-07;P007;agua mineral 2l;2;2060,00;Lucía Herrera
+2026-09-07;P003;aceite girasol 1,5l;1;2800,00;Lucía Herrera
+2026-09-07;P014;galletitas dulces 300g;2;2660,00;Tomás Vega
+2026-09-07;P001;yerba mate 1kg;2;6280,00;Lucía Herrera
+2026-09-07;P012;papel higiénico x4;1;2440,00;Tomás Vega
+2026-09-07;P007;agua mineral 2l;1;1030,00;Lucía Herrera
+2026-09-07;P016;alfajor triple;1;850,00;Tomás Vega
+2026-09-08;P003;aceite girasol 1,5l;2;5660,00;Lucía Herrera
+2026-09-08;P006;gaseosa cola 2,25l;1;2410,00;Tomás Vega
+2026-09-09;P015;papas fritas 150g;1;2010,00;Tomás Vega
+2026-09-09;P009;vino malbec 750ml;3;16440,00;Lucía Herrera
+2026-09-09;P013;jabón en polvo 3kg;1;8720,00;Tomás Vega
+2026-09-09;P001;yerba mate 1kg;12;38640,00;Lucía Herrera
+2026-09-09;P009;vino malbec 750ml;2;11540,00;Tomás Vega
+2026-09-09;P014;galletitas dulces 300g;1;1350,00;Tomás Vega
+2026-09-09;P011;lavandina 2l;3;3630,00;Tomás Vega
+2026-09-09;P006;gaseosa cola 2,25l;6;14340,00;Lucía Herrera
+2026-09-10;P006;gaseosa cola 2,25l;1;2370,00;Lucía Herrera
+2026-09-10;P006;gaseosa cola 2,25l;1;2390,00;Tomás Vega
+2026-09-10;P004;fideos spaghetti 500g;3;2940,00;Tomás Vega
+2026-09-10;P007;agua mineral 2l;2;2020,00;Tomás Vega
+2026-09-10;P009;vino malbec 750ml;6;32880,00;Tomás Vega
+2026-09-11;P016;alfajor triple;1;880,00;Lucía Herrera
+2026-09-11;P006;gaseosa cola 2,25l;12;29400,00;Lucía Herrera
+2026-09-12;P003;aceite girasol 1,5l;3;8430,00;Tomás Vega
+2026-09-12;P013;jabón en polvo 3kg;4;34240,00;Lucía Herrera
+2026-09-12;P006;gaseosa cola 2,25l;2;4660,00;Tomás Vega
+2026-09-12;P005;arroz largo fino 1kg;4;5480,00;Tomás Vega
+2026-09-13;P010;detergente 750ml;6;11160,00;Tomás Vega
+2026-09-13;P011;lavandina 2l;2;2360,00;Lucía Herrera
+2026-09-13;P001;yerba mate 1kg;1;3190,00;Tomás Vega
+2026-09-13;P003;aceite girasol 1,5l;2;5560,00;Lucía Herrera
+2026-09-13;P010;detergente 750ml;3;5490,00;Lucía Herrera
+2026-09-14;P005;arroz largo fino 1kg;2;2820,00;Tomás Vega
+2026-09-14;P014;galletitas dulces 300g;2;2760,00;Tomás Vega
+2026-09-14;P009;vino malbec 750ml;4;22640,00;Tomás Vega
+2026-09-14;P007;agua mineral 2l;2;2040,00;Lucía Herrera
+2026-09-14;P006;gaseosa cola 2,25l;3;7320,00;Lucía Herrera
+2026-09-15;P005;arroz largo fino 1kg;2;2780,00;Tomás Vega
+2026-09-15;P012;papel higiénico x4;1;2510,00;Lucía Herrera
+2026-09-15;P006;gaseosa cola 2,25l;6;14640,00;Tomás Vega
+2026-09-16;P009;vino malbec 750ml;4;22400,00;Lucía Herrera
+2026-09-16;P016;alfajor triple;2;1760,00;Tomás Vega
+2026-09-16;P001;yerba mate 1kg;2;6260,00;Lucía Herrera
+2026-09-16;P001;yerba mate 1kg;1;3180,00;Lucía Herrera
+2026-09-17;P011;lavandina 2l;1;1160,00;Tomás Vega
+2026-09-17;P013;jabón en polvo 3kg;6;50400,00;Lucía Herrera
+2026-09-18;P003;aceite girasol 1,5l;2;5600,00;Lucía Herrera
+2026-09-18;P013;jabón en polvo 3kg;1;8610,00;Lucía Herrera
+2026-09-19;P013;jabón en polvo 3kg;2;17440,00;Lucía Herrera
+2026-09-19;P014;galletitas dulces 300g;1;1380,00;Tomás Vega
+2026-09-19;P014;galletitas dulces 300g;3;4020,00;Tomás Vega
+2026-09-19;P013;jabón en polvo 3kg;1;8290,00;Lucía Herrera
+2026-09-19;P016;alfajor triple;3;2670,00;Tomás Vega
+2026-09-20;P013;jabón en polvo 3kg;1;8380,00;Lucía Herrera
+2026-09-21;P015;papas fritas 150g;3;6180,00;Lucía Herrera
+2026-09-21;P010;detergente 750ml;3;5640,00;Lucía Herrera
+2026-09-21;P015;papas fritas 150g;2;4180,00;Tomás Vega
+2026-09-21;P001;yerba mate 1kg;3;9450,00;Lucía Herrera
+2026-09-21;P001;yerba mate 1kg;6;18540,00;Tomás Vega
+2026-09-21;P015;papas fritas 150g;3;6150,00;Lucía Herrera
+2026-09-22;P002;café molido 500g;3;13410,00;Lucía Herrera
+2026-09-22;P003;aceite girasol 1,5l;2;5600,00;Tomás Vega
+2026-09-22;P001;yerba mate 1kg;2;6220,00;Tomás Vega
+2026-09-22;P009;vino malbec 750ml;1;5750,00;Tomás Vega
+2026-09-22;P008;cerveza rubia 1l;1;2660,00;Lucía Herrera
+2026-09-22;P002;café molido 500g;1;4390,00;Tomás Vega
+2026-09-22;P009;vino malbec 750ml;12;65760,00;Tomás Vega
+2026-09-22;P007;agua mineral 2l;3;3000,00;Tomás Vega
+2026-09-23;P008;cerveza rubia 1l;6;15840,00;Lucía Herrera
+2026-09-23;P001;yerba mate 1kg;1;3060,00;Tomás Vega
+2026-09-23;P005;arroz largo fino 1kg;2;2840,00;Tomás Vega
+2026-09-23;P010;detergente 750ml;2;3740,00;Tomás Vega
+2026-09-23;P001;yerba mate 1kg;3;9240,00;Tomás Vega
+2026-09-23;P003;aceite girasol 1,5l;2;5720,00;Lucía Herrera
+2026-09-24;P004;fideos spaghetti 500g;2;1980,00;Lucía Herrera
+2026-09-25;P006;gaseosa cola 2,25l;12;28560,00;Tomás Vega
+2026-09-25;P014;galletitas dulces 300g;1;1340,00;Tomás Vega
+2026-09-25;P010;detergente 750ml;1;1820,00;Tomás Vega
+2026-09-25;P009;vino malbec 750ml;3;16620,00;Lucía Herrera
+2026-09-25;P016;alfajor triple;1;850,00;Tomás Vega
+2026-09-25;P010;detergente 750ml;3;5550,00;Lucía Herrera
+2026-09-26;P015;papas fritas 150g;2;4180,00;Tomás Vega
+2026-09-26;P014;galletitas dulces 300g;1;1360,00;Lucía Herrera
+2026-09-26;P006;gaseosa cola 2,25l;1;2310,00;Lucía Herrera
+2026-09-26;P006;gaseosa cola 2,25l;2;4640,00;Tomás Vega
+2026-09-26;P002;café molido 500g;1;4550,00;Lucía Herrera
+2026-09-27;P009;vino malbec 750ml;4;22000,00;Tomás Vega
+2026-09-27;P012;papel higiénico x4;6;14520,00;Lucía Herrera
+2026-09-27;P001;yerba mate 1kg;6;19200,00;Tomás Vega
+2026-09-28;P014;galletitas dulces 300g;2;2720,00;Tomás Vega
+2026-09-28;P011;lavandina 2l;1;1220,00;Tomás Vega
+2026-09-28;P014;galletitas dulces 300g;1;1370,00;Tomás Vega
+2026-09-28;P012;papel higiénico x4;6;14640,00;Lucía Herrera
+2026-09-28;P007;agua mineral 2l;4;4040,00;Tomás Vega
