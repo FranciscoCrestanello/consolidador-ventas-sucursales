@@ -26,8 +26,6 @@ La hoja **Control** muestra qué leyó, qué descartó y que los totales coincid
 
 ![Hoja Control del reporte](capturas/5-control.png)
 
-<!-- Acá va el link al video de 2 minutos. -->
-
 ## Qué resuelve
 
 Cada archivo trae a propósito un problema distinto, los mismos que aparecen en clientes reales:
@@ -68,8 +66,9 @@ Córdoba trae 361 filas; se quitan 5 duplicadas. Estos números están verificad
 
 ## Cómo usarlo
 
-1. Poné `ReporteVentas.exe` en una carpeta que tenga la subcarpeta `entrada/` con los archivos del mes.
-2. Doble clic. Se crea `salida/Reporte_Ventas.xlsx` y se abre solo.
+1. Descargá `ReporteVentas-v1.0-win-x64.zip` desde [Releases](https://github.com/FranciscoCrestanello/consolidador-ventas-sucursales/releases/latest) y descomprimilo. Trae `ReporteVentas.exe` y la carpeta `entrada/` con archivos de ejemplo.
+2. Para usarlo con tus datos, reemplazá los archivos de `entrada/` por los del mes.
+3. Doble clic en `ReporteVentas.exe`. Se crea `salida/Reporte_Ventas.xlsx` y se abre solo.
 
 No necesita instalar nada: es un único `.exe` autocontenido.
 
