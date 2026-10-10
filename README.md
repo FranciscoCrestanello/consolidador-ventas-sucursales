@@ -6,7 +6,27 @@
 
 Este programa se ejecuta con doble clic, lee todos los archivos de la carpeta `entrada`, los limpia, los junta y genera `salida/Reporte_Ventas.xlsx` con los números y gráficos listos.
 
-<!-- Acá van las capturas del antes (carpeta con archivos desordenados) y del después (el reporte), y el video de 2 minutos. -->
+## Antes
+
+Cada sucursal manda su planilla en un formato distinto:
+
+![Planillas de entrada de Rosario, Norte y Córdoba](capturas/1-antes.png)
+
+## Después
+
+Un doble clic y el reporte está listo:
+
+![Hoja Resumen del reporte](capturas/2-resumen.png)
+
+![Ventas por sucursal y mes, con gráfico](capturas/3-por-sucursal-y-mes.png)
+
+![Top 10 de productos y ventas por categoría](capturas/4-productos.png)
+
+La hoja **Control** muestra qué leyó, qué descartó y que los totales coinciden:
+
+![Hoja Control del reporte](capturas/5-control.png)
+
+<!-- Acá va el link al video de 2 minutos. -->
 
 ## Qué resuelve
 
