@@ -6,6 +6,8 @@
 
 Este programa se ejecuta con doble clic, lee todos los archivos de la carpeta `entrada`, los limpia, los junta y genera `salida/Reporte_Ventas.xlsx` con los números y gráficos listos.
 
+> **Nota:** todos los datos de este proyecto y de las capturas son ficticios: la empresa, las sucursales, los vendedores, los productos y los montos fueron inventados para la demostración.
+
 ## Antes
 
 Cada sucursal manda su planilla en un formato distinto:
